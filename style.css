@@ -1,3 +1,14 @@
-header {
+.header {
   color: cornsilk;
+  background-color: skyblue;
+}
+
+.main {
+  color: cornsilk;
+  background-color: brown;
+}
+
+.footer {
+  color: cornsilk;
+  background-color: skyblue;
 }
